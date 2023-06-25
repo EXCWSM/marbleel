@@ -1,0 +1,7 @@
+rel/
+*.bak
+*.exe
+*.map
+*.obj
+*.tds
+*.zip
